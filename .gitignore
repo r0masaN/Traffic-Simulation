@@ -40,7 +40,7 @@ build/
 
 .idea
 
-.out
+out
 .mvn
 mvnw
 mvnw.cmd
