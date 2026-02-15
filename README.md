@@ -2,6 +2,10 @@
 
 ---
 
+![Preview gif](images/preview.gif)
+
+---
+
 ## TL;DR
 
 This is a simple Traffic Simulation that operates by cars, trucks, pedestrians (3 types of entities) and traffic lights. Each entity has it's own path and follows it. All entities respect each other so they won't just pass through (each other).
